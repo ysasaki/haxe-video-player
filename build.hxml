@@ -1,0 +1,3 @@
+-cp haxe/
+-main Player
+-js js/player.js
